@@ -3,14 +3,32 @@
 <!--
 **RifatMizan/RifatMizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Rifat Binte Mizan 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Information Security | GRC | IT Audit
+
+Information Security and GRC professional with approximately 7 years of experience in IT Advisory, IT Audit, and Governance, Risk & Compliance.
+
+My areas of experience include:
+
+- SOC 2 Control Testing
+- ISO/IEC 27001 Audit
+- IT General Controls (ITGC)
+- IT Application Controls
+- Risk Assessment and Control Evaluation
+- Audit Evidence Collection and Review
+- Internal Control over Financial Reporting (ICFR)
+
+### My Portfolio Projects
+
+I'm currently building practical GRC portfolio projects, including:
+
+- SOC 2 Audit Documentation
+- Information Security Risk Register
+- ISO 27001 Control Assessment
+- IT Audit Workpapers
+
+### Let's Connect
+
+[LinkedIn](YOUR-LINKEDIN-PROFILE-URL)
 -->
